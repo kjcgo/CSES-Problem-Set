@@ -4,3 +4,5 @@ https://cses.fi/problemset/list/
 Progress Log
 December 15, 2025
 - Weird Algorithm
+- Missing Number
+- Repetitions
