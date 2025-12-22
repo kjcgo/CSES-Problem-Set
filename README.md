@@ -11,3 +11,6 @@ December 15, 2025
 December 21, 2025
 - Distinct Numbers, redid to be faster (Sorting and Searching)
 - Apartments (Sorting and Searching)
+
+December 22, 2025
+- Ferris Wheel (Sorting and Searching)
