@@ -17,3 +17,7 @@ December 22, 2025
 
 January 3, 2026
 - Subarray Sums II (Sorting and Searching)
+
+January 4, 2026
+- Building Roads (Graph Algorithms)
+- Building Teams (Graph Algorithms)
